@@ -1,5 +1,5 @@
 # Hackerearth-Windmill-power-prediction-ML-Hackathon 
-Performed Exploratory Data Analysis and used XGBRegressor and ExtraTreesRegressor to get a r2 score of 95.78093, Approach and tools have been mentioned inside the attached ipynb notebook file as markdowns and comments.
+Performed Exploratory Data Analysis and used XGBRegressor and ExtraTreesRegressor to get a r2 score of 95.78093, approach and tools have been mentioned inside the attached ipynb notebook file as markdowns and comments.
  
 Link to Kaggle Notebook : https://www.kaggle.com/sangaming/hackerearth-windmill-power-prediction
 
