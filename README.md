@@ -1,5 +1,5 @@
 # Hackerearth-Windmill-power-prediction-ML-Hackathon 
-Used XGBRegressor and ExtraTreesRegressor to get a r2 score of 95.78093
+Used XGBRegressor and ExtraTreesRegressor to get a r2 score of 95.78093, 
 Link to Kaggle Notebook : https://www.kaggle.com/sangaming/hackerearth-windmill-power-prediction
 
 # Problem statement
