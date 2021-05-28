@@ -1,1 +1,0 @@
-Approach and tools used for exploratory data analysis,feature engineering, data modeling, model preparation, evaluation have been mentioned inside the attached ipynb notebook file as markdowns and comments, thank you.
